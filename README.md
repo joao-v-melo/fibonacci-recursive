@@ -22,18 +22,3 @@ Este repositório contém uma implementação **recursiva simples** da sequênci
 ## 📌 Implementação
 
 ✅ Recursiva simples
-
-## 🚀 Como Executar
-
-Para rodar o código em **Java**, compile e execute:
-
-```bash
-javac Fibonacci.java
-java Fibonacci
-```
-
-📝 Exemplo de Saída
-
-```
-0 1 1 2 3 5 8 13 21 34
-```
